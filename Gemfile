@@ -13,7 +13,18 @@ gem 'puma', '~> 5.0'
 # gem 'jbuilder', '~> 2.7'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
-# Use Active Model has_secure_password
+gem 'rspec-rails'
+gem 'factory_bot_rails'
+gem 'active_model_serializers'
+gem 'kaminari'
+gem "octokit", "~> 4.0"
+gem 'devise'
+gem 'devise-jwt'
+# Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
+# gem 'jbuilder', '~> 2.5'
+# Use Redis adapter to run Action Cable in production
+# gem 'redis', '~> 4.0'
+# Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
 # Use Active Storage variant
